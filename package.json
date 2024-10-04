@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@discordjs/builders": "^1.9.0",
+    "axios": "^1.7.7",
+    "canvas": "^2.11.2",
+    "discord.js": "^14.16.1",
+    "dotenv": "^16.4.5",
+    "leo-profanity": "^1.7.0",
+    "moment-timezone": "^0.5.45",
+    "node-cron": "^3.0.3",
+    "node-fetch": "^3.3.2",
+    "path": "^0.12.7",
+    "sharp": "^0.33.5",
+    "superagent": "^10.1.0"
+  }
+}
